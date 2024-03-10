@@ -1,5 +1,5 @@
 # voron
 
-[Voron Logo](!img/voron.png)
+![Voron Logo](img/voron.png)
 
 Mods and resources for Voron printers.
