@@ -1,6 +1,6 @@
 # Voron 0.2 No Drop Nut Door Latch
 
-!(img/voron02_nodropnut_doorlatch.jpg)
+![No Drop Nut Door Latch](img/voron02_nodropnut_doorlatch.jpg)
 
 No Drop Nuts (https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/zruncho/V0_No_Drop_Nuts) are amazing and make life a lot easier.
 
